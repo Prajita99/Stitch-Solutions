@@ -36,6 +36,10 @@ const Sust = () => {
           <div className="next">
             <NavigateNextIcon />
           </div>
+          <div>
+            <button className="btn">Enter Your Preference</button>
+          </div>
+          <br></br>
         </div>
       </>
     </div>
