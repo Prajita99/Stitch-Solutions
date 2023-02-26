@@ -141,7 +141,6 @@ button[type='submit'] {
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     cursor: pointer;
-    background-color: gray;
 }
 
 /* Add some padding inside the card container */
@@ -193,7 +192,7 @@ button[type='submit'] {
 
 /* Style the submit button with a specific background color etc */
 .contact-container input[type=submit] {
-    background-color: blue;
+    background: linear-gradient(to bottom, #1fb48c, #7089c4);
     color: white;
     padding: 12px 20px;
     border: none;
@@ -203,7 +202,7 @@ button[type='submit'] {
 
 /* When moving the mouse over the submit button, add a darker green color */
 .contact-container input[type=submit]:hover {
-    background-color: violet;
+    background: linear-gradient(to bottom, #b41f85, #31257a);
 }
 
 .contact-container {
@@ -232,7 +231,6 @@ button[type='submit'] {
 .cards:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     cursor: pointer;
-    background-color: gray;
 }
 
 .sust-container {
